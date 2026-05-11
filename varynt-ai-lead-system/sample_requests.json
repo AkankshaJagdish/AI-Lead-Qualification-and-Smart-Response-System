@@ -1,0 +1,18 @@
+[
+  {
+    "full_name": "Mia Robertson",
+    "email": "mia@blueorbit.io",
+    "company": "Blue Orbit",
+    "budget_usd": 95000,
+    "urgency": "high",
+    "message": "We are ready to move quickly. Please share pricing and a demo this week so we can finalize procurement."
+  },
+  {
+    "full_name": "Tom Blake",
+    "email": "tom@gmail.com",
+    "company": "Freelance",
+    "budget_usd": 2000,
+    "urgency": "low",
+    "message": "Just exploring options for later this year."
+  }
+]
